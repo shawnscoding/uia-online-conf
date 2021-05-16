@@ -1,0 +1,100 @@
+/* virtual seoul playground 다운로드 배너 (메뉴) */
+.banner-game1 {
+  margin: 2rem 0;
+  padding: 0 4rem;
+  width: 100%;
+}
+
+.banner-game1 img {
+  display: block;
+  width: 81%;
+}
+
+/* virtual seoul playground 다운로드 팝업 */
+.banner-game2 {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3.2rem 4rem;
+  display: block;
+  width: 50rem;
+  height: 440px;
+  border: 4px solid #2e315d;
+  text-align: center;
+  background-color: #fff;
+  z-index: 2;
+}
+
+.banner-txt1 {
+  font-style: italic;
+  font-size: 1.8rem;
+  margin-bottom: 0.8rem;
+}
+
+.banner-txt2 {
+  margin: 1.2rem 0;
+}
+
+.banner-txt2-1 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 3.6rem;
+}
+
+.banner-txt2-2 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 3.6rem;
+  color: #006ab2;
+}
+
+.banner-txt2-3 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.8rem;
+}
+
+.banner-txt2-4 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.8rem;
+  color: #d93025;
+}
+
+.banner-txt3 {
+  font-size: 1.6rem;
+  color: #666;
+}
+
+.banner-game2 img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 1.2rem 0 0.8rem;
+}
+
+.btn-gameDownload {
+  padding: 0.4rem 4rem;
+  font-size: 2rem;
+  line-height: 3.8rem;
+  font-weight: 500;
+  background-color: #2e315d;
+  color: #fff;
+  margin-top: 3rem;
+  border-radius: 0.8rem;
+}
+
+.banner-game2 .btn-banner {
+  display: block;
+  position: absolute;
+  left: -18px;
+  top: -18px;
+  width: 36px;
+  height: 36px;
+  background-color: #2e315d;
+  border-radius: 50%;
+  text-indent: -9999px;
+  /* background: #2e315d url(assets/ico-plus.svg) no-repeat center; */
+  transform: rotate(45deg);
+}

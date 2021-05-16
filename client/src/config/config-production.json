@@ -1,0 +1,4 @@
+{
+    "apiBaseUrl": "https://virtualseoul.or.kr:3001",
+    "websocketServer":"wss://ws.salin.co.kr"
+}

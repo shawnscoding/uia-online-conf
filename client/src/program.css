@@ -1,0 +1,46 @@
+.training {
+  background: rgb(254 217 190 / 1) !important;
+}
+
+.rt_1 {
+  background: rgb(255 238 182 / 1) !important;
+}
+
+.rt_2 {
+  background: rgb(222 235 192 / 1) !important;
+}
+
+.rt_3 {
+  background: rgb(255 248 168 / 1) !important;
+}
+
+.rt_4 {
+  background: rgb(222 228 242 / 1) !important;
+}
+
+/* .event-result {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.event-result .score1, .score2, .score3 {
+  width:32%;
+  margin: -22px;
+}
+
+.event-result div {
+  display: inline-block;
+}
+
+.event-result div img {
+  display: block;
+  margin: 0 auto;
+}
+
+.event-result div img.clear-score {
+  position: relative;
+  top: -40px;
+  left: 35%;
+  margin: 0;
+} */
