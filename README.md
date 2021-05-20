@@ -137,4 +137,4 @@ As the application grew, it started getting too much re-render and slowed the ap
 
 # Note 
 
-Due to the company policy, I can only open client-side source code.
+Due to the company policy, I can only open the client-side source code.
