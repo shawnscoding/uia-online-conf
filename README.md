@@ -14,30 +14,24 @@
 
 # Role & Responsibility
 
-My responsibility was developing both front-end and back-end. Collaborating with management, departments, and customers to identify end-user requirements and specifications. Testing and deploying applications. Troubleshooting, debugging, maintaining and improving existing software.
-
-<!-- Particularly, I developed the front-end entirely on my own from scratch. -->
+My responsibility was developing front-end and back-end. Collaborating with management, departments, and customers to identify end-user requirements and specifications. Testing and deploying applications. Troubleshooting, debugging, maintaining and improving existing software.
 
 ### My responsibilities in this project include:
 
 - Front-end System Design
-- Build RESTful APIs in expressjs
-- CRUD data in Mysql DB Tables
+- Build RESTful APIs in Expressjs
+- Create SQL statements
 - User Authentication
-- Create UIs in React (tables, banners, poppers, Modals, buttons and so on)
+- Create React components (tables, banners, poppers, Modals, buttons and so on)
 - Schedule Push notification, VOD and Live Streaming
 - Handle browser compatibility (Chrome, Safari, Firefox, MS Edge, IE11)
 - Gitlab Administration
 - Translation Korean to English
-- Enable users to take a photo for a gift event
-- Help center embedding & Technical Support during the event
+- Email, SMS and push notification automation
+- Technical Support during the conference via live chat
 - Responsive Design (Supports mobile devices)
 - Data statistics
-<!-- - Implement video chat
-- Implement text chat -->
-
-<!--
-I solved the most issues among the developers -->
+- Implement virtual event ( Stamp tour, Membership Card  ) 
 
 A screenshot demonstrating the number of the issues in [Jira](https://www.atlassian.com/software/jira) is below
 
@@ -108,41 +102,39 @@ This web application was used for the Online Conference held by [Union of Intern
 
 ![membership.png](assets/membership.png)
 
-<!-- ## And much more
-
-- Compatible with all modern browsers including IE11
-- Responsive Design ( Supports mobile devices )
-- Help Center ( Technical Support )
-- Statistics -->
 
 ### This application feels like a real event and offers almost all features that offline events do.
 
 # Achievement
 
-### This project has brought over 10 additional contracts.
+### 1. This project has brought over 10 additional contracts.
 
-#### Some of the biggest projects I've built are listed below.
+#### [Reference] - Some of the biggest projects I've built are listed below.
 
-<!-- - [Simens Online Conference](https://siemens-evavconference.govent.io/lobby)  -->
 
 - [KHA Online Conference](https://khc2020.salin.co.kr) ( Korean Hospital Association ) can be logged in with ID: host01@salin.co.kr PW: 1234
+- [Simens Online Conference](https://siemens-evavconference.govent.io) can be logged in with ID: abc@abc.com PW: 1234
 - Asia TEFL Online Conference (Teaching English as a second or foreign language)
 
-### Created reusable components and APIs.
+### 2. Created reusable components and APIs.
 
 During the development, we created several reusable components and APIs. This allowed us to save time and make greater profits.
 
-#### Reusable radio input component on [codesandbox](https://codesandbox.io/s/radio-3mtce?file=/src/App.jsx).
+#### [Reference] - Reusable radio input component on [codesandbox](https://codesandbox.io/s/radio-3mtce?file=/src/App.jsx).
 
 ![reusable-component.gif](assets/reusable_component.gif)
 
-### This project motivated me to build a reactjs open-source library
+### 3. This project motivated me to build a reactjs open-source library
 
-#### [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
+#### [Reference] - [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
 [![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
 
-I realised building a crontab (scheduling jobs) is quite tedious and difficult to test. This motivated me to create a node open-source package, which allows you to easily build a crontab functionality. I created this package entirely on my own. There is an average of approximately 300 weekly downloads.
+I realised building a crontab (scheduling jobs) is quite tedious and difficult to test. I knew such a function will be used many times in our projects and I wouldn't want to repeat the same implementation over and over again. This motivated me to modularise this functionality. And one thing led to another, I ended up creating a node open-source package out of it. There is an average of approximately 300 weekly downloads.
 
-# Note
+### 4. Learned how to optimize React app performance.
+
+As the application grew, it started getting too much re-render and slowed the app down. Particularly, I was surprised when HTML auto-canvasing functionality no longer worked after adding several logics to it. In the debugging and optimizing process, I learned about several methods such as React.memo, HOC, React.useCallback, lazyload, algorithms and so on.    
+
+# Note 
 
 Due to the company policy, I am unable to open the source code.
