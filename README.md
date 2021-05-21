@@ -129,7 +129,7 @@ During the development, we created several reusable components and APIs. This al
 #### [Reference] - [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
 [![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
 
-I realised building a crontab (scheduling jobs) is quite tedious and difficult to test. I knew such a function will be used many times in our projects and I wouldn't want to repeat the same implementation over and over again. This motivated me to modularise this functionality. And one thing led to another, I ended up creating a node open-source package out of it. There is an average of approximately 300 weekly downloads.
+I realised having a crontab (scheduling jobs) function in front-end is quite useful in many cases but very tedious to implement and test. I knew such a function will be used many times in our projects. I wouldn't want to repeat the same implementation. This motivated me to build a React library called reactjs-crontab to help myself and other devs who are having a similar problem. This pacakge allows you to easily schedule a job. There is an average of approximately 300 weekly downloads.
 
 ### 4. Learned how to optimize React app performance.
 
