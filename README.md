@@ -71,7 +71,7 @@ While we always allow access to this website, we have closed most of its feature
 
 # Project Description
 
-This web application was used for the Online Conference held by [Union of International Associations(UIA)](https://uia.org/) and [Seoul Tourism Organization(STO)](http://www.sto.or.kr/english/index).
+This platform was used for the online conference held by [Union of International Associations(UIA)](https://uia.org/) and [Seoul Tourism Organization(STO)](http://www.sto.or.kr/english/index).
 
 - Development period: 2020.06 ~ 2020.09
 - Maintenance period: 2020.09 ~ 2021.04
