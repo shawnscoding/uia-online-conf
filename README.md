@@ -118,7 +118,7 @@ This platform was used for the online conference held by [Union of International
 
 ### 2. Created reusable components and APIs.
 
-During the development, we created several reusable components and APIs. This allowed us to save time and make greater profits.
+I created several reusable components and APIs out of this project which saved my team 10 person-hours each month and significantly reduced errors in development.
 
 #### [Reference] - Reusable radio input component on [codesandbox](https://codesandbox.io/s/radio-3mtce?file=/src/App.jsx).
 
