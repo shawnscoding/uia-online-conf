@@ -111,9 +111,10 @@ This platform was used for the online conference held by [Union of International
 Some of the biggest projects I've worked on are listed below.
 
 
-- [IOHA2021 International Scientific Conference](https://ioha2021conference.org/)
+
 - [Unesco International 3D Online Conference](https://iclc2021.govent.io/)
-- [Simens Online Conference & Exhibition](https://siemens-evavconference.govent.io) 
+- [UIA & STO International 3D Online Conference](https://wclf2021.miceworld.or.kr/) 
+- [IOHA2021 International Scientific Conference](https://ioha2021conference.org/) 
 - [KHA Online Conference & Exhibition](https://khc2020.salin.co.kr) ( Korean Hospital Association )
 - Asia TEFL International 3D Online Conference
 
