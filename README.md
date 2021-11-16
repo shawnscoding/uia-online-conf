@@ -108,7 +108,7 @@ This platform was used for the online conference held by [Union of International
 
 ### 1. This project has brought over 10 additional contracts.
 
-#### Some of the biggest projects I've worked on are listed below.
+Some of the biggest projects I've worked on are listed below.
 
 
 - [IOHA2021 International Scientific Conference](https://ioha2021conference.org/)
