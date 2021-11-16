@@ -73,7 +73,7 @@ While we always allow access to this website, we have closed most of its feature
 This platform was used for the online conference held by [Union of International Associations(UIA)](https://uia.org/) and [Seoul Tourism Organization(STO)](http://www.sto.or.kr/english/index).
 
 - Development period: 2020.06 ~ 2020.09
-- Maintenance period: 2020.09 ~ 2021.04
+- Maintenance period: 2020.09 ~ 2021.11
 - Logged users per day: 3,000 ~ 5,000
 - Accessed in: 26 countries
 - Accessed by: Desktop, Mobile device, Labtop, Tablet
@@ -127,7 +127,7 @@ I created several reusable components and APIs out of this project which saved m
 
 ### 3. This project motivated me to build a reactjs open-source library
 
-#### [Link To The Library](https://www.npmjs.com/package/reactjs-crontab)
+[Link To The Library](https://www.npmjs.com/package/reactjs-crontab)
 [![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
 
 I realised having a crontab (scheduling jobs) function in front-end is quite useful in many cases but very tedious to implement and test. I knew such a function will be used many times in our projects. I wouldn't want to repeat the same implementation. This motivated me to build a React library called reactjs-crontab to help myself and other devs who are having a similar problem. This pacakge allows you to easily schedule a job. There is an average of approximately 300 weekly downloads.
