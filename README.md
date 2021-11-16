@@ -118,7 +118,16 @@ Some of the biggest projects I've worked on are listed below.
 - [KHA Online Conference & Exhibition](https://khc2020.salin.co.kr) ( Korean Hospital Association )
 - Asia TEFL International 3D Online Conference
 
-### 2. Created reusable components and APIs.
+### 2. This project motivated me to build a reactjs open-source library
+
+
+[![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
+[Link To The Library](https://www.npmjs.com/package/reactjs-crontab)
+
+I realised having a crontab (scheduling jobs) function in front-end is quite useful in many cases but very tedious to implement and test. I knew such a function will be used many times in our projects. I wouldn't want to repeat the same implementation. This motivated me to build a React library called reactjs-crontab to help myself and other devs who are having a similar problem. This pacakge allows you to easily schedule a job. There is an average of approximately 300 weekly downloads.
+
+
+### 3. Created reusable components and APIs.
 
 I created several reusable components and APIs out of this project which saved my team 10 person-hours each month and significantly reduced errors in development.
 
@@ -126,12 +135,6 @@ I created several reusable components and APIs out of this project which saved m
 
 ![reusable-component.gif](assets/reusable_component.gif)
 
-### 3. This project motivated me to build a reactjs open-source library
-
-[Link To The Library](https://www.npmjs.com/package/reactjs-crontab)
-[![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
-
-I realised having a crontab (scheduling jobs) function in front-end is quite useful in many cases but very tedious to implement and test. I knew such a function will be used many times in our projects. I wouldn't want to repeat the same implementation. This motivated me to build a React library called reactjs-crontab to help myself and other devs who are having a similar problem. This pacakge allows you to easily schedule a job. There is an average of approximately 300 weekly downloads.
 
 ### 4. Learned how to optimize React app performance.
 
