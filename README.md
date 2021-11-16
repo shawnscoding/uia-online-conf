@@ -1,6 +1,6 @@
-# UIA & STO Online Conference
+# UIA & STO International Online Conference
 
-[![Watch the video](assets/virtual_seoul2.gif)](http://virtualseoul.or.kr/)
+[![Watch the video](assets/virtual_seoul2.gif)](https://wclf2021.miceworld.or.kr/)
 
 ## Table of Content
 
@@ -20,10 +20,10 @@ My responsibility was developing front-end and back-end. Collaborating with mana
 
 - Front-end System Design
 - Build RESTful APIs in Expressjs
-- Create SQL statements
+- Implement SQL statements
 - User Authentication
 - Create React components (tables, banners, poppers, Modals, buttons and so on)
-- Schedule Push notification, VOD and Live Streaming
+- Push notification, VOD and Live Streaming
 - Handle browser compatibility (Chrome, Safari, Firefox, MS Edge, IE11)
 - Gitlab Administration
 - Translation Korean to English
@@ -31,9 +31,8 @@ My responsibility was developing front-end and back-end. Collaborating with mana
 - Technical Support during the conference via live chat
 - Responsive Design (Supports mobile devices)
 - Data statistics
-- Implement virtual event ( Stamp tour, Membership Card  ) 
 
-A screenshot demonstrating the number of the issues in [Jira](https://www.atlassian.com/software/jira) is below
+#### A screenshot demonstrating the number of the issues in [Jira](https://www.atlassian.com/software/jira) is below
 
 ![jira](assets/jira3.jpg)
 
@@ -57,9 +56,9 @@ A screenshot demonstrating the number of the issues in [Jira](https://www.atlass
 
 ### Website URL
 
-#### [Link to the website](http://virtualseoul.or.kr/)
+#### [Link to the website](https://wclf2021.miceworld.or.kr/)
 
-[![Watch the video](assets/virtual_seoul2.gif)](http://virtualseoul.or.kr/)
+[![Watch the video](assets/virtual_seoul2.gif)](https://wclf2021.miceworld.or.kr/)
 
 While we always allow access to this website, we have closed most of its features since it is not the period of the Event.
 
@@ -109,24 +108,26 @@ This platform was used for the online conference held by [Union of International
 
 ### 1. This project has brought over 10 additional contracts.
 
-#### [Reference] - Some of the biggest projects I've built are listed below.
+#### Some of the biggest projects I've worked on are listed below.
 
 
-- [KHA Online Conference](https://khc2020.salin.co.kr) ( Korean Hospital Association ) can be logged in with ID: host01@salin.co.kr PW: 1234
-- [Simens Online Conference](https://siemens-evavconference.govent.io) can be logged in with ID: abc@abc.com PW: 1234
-- Asia TEFL Online Conference (Teaching English as a second or foreign language)
+- [IOHA2021 International Scientific Conference](https://ioha2021conference.org/)
+- [Unesco International 3D Online Conference](https://iclc2021.govent.io/)
+- [Simens Online Conference & Exhibition](https://siemens-evavconference.govent.io) 
+- [KHA Online Conference & Exhibition](https://khc2020.salin.co.kr) ( Korean Hospital Association )
+- Asia TEFL International 3D Online Conference
 
 ### 2. Created reusable components and APIs.
 
 I created several reusable components and APIs out of this project which saved my team 10 person-hours each month and significantly reduced errors in development.
 
-#### [Reference] - Reusable radio input component on [codesandbox](https://codesandbox.io/s/radio-3mtce?file=/src/App.jsx).
+[codesandbox demo](https://codesandbox.io/s/radio-3mtce?file=/src/App.jsx) - Reusable radio input component.
 
 ![reusable-component.gif](assets/reusable_component.gif)
 
 ### 3. This project motivated me to build a reactjs open-source library
 
-#### [Reference] - [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
+#### [Link To The Library](https://www.npmjs.com/package/reactjs-crontab)
 [![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
 
 I realised having a crontab (scheduling jobs) function in front-end is quite useful in many cases but very tedious to implement and test. I knew such a function will be used many times in our projects. I wouldn't want to repeat the same implementation. This motivated me to build a React library called reactjs-crontab to help myself and other devs who are having a similar problem. This pacakge allows you to easily schedule a job. There is an average of approximately 300 weekly downloads.
